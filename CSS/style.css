@@ -10,6 +10,9 @@
 img[alt="logo"] {
     width: 10rem;
 }
+body{
+    text-align: center;
+}
 .navbar {
     background: #020024;
     background: linear-gradient(
